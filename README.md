@@ -1,4 +1,5 @@
-# OvenMitt
+# <img src="ovenmitt_icon.svg" width="32"> OvenMitt 
+
 
 Async personal email/iMessage draft assistant. Uses a local LLM (via Ollama) to draft replies to your emails and messages. You always review before anything gets sent — OvenMitt never sends on your behalf.
 
